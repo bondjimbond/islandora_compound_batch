@@ -47,6 +47,7 @@ class Utilities{
       'docx' => 'islandora:sp_document',
       'pptx' => 'islandora:sp_document',
       'xlsx' => 'islandora:sp_document',
+      'txt' => 'islandora:sp_remoteMediaCModel',
     );
   }
 
